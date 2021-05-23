@@ -1,0 +1,177 @@
+
+.twitter {
+	-moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #016fed), color-stop(1, #0061a7) );
+	background:-moz-linear-gradient( center top, #016fed 5%, #0061a7 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#016fed', endColorstr='#0061a7');
+	background-color:#016fed;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+    text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:normal;
+    height:50px;
+	line-height:50px;
+    width:100%;
+	min-width: 300px;
+	max-width: 500px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #154682;
+}.twitter:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #0061a7), color-stop(1, #016fed) );
+	background:-moz-linear-gradient( center top, #0061a7 5%, #016fed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0061a7', endColorstr='#016fed');
+	background-color:#0061a7;
+}.twitter:active {
+	position:relative;
+	top:1px;
+}
+.github {
+	-moz-box-shadow:inset 0px 1px 3px 0px #606b69;
+	-webkit-box-shadow:inset 0px 1px 3px 0px #606b69;
+	box-shadow:inset 0px 1px 3px 0px #606b69;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3e4a47), color-stop(1, #171a1a) );
+	background:-moz-linear-gradient( center top, #3e4a47 5%, #171a1a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3e4a47', endColorstr='#171a1a');
+	background-color:#3e4a47;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+    text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:normal;
+    height:50px;
+	line-height:50px;
+	width:100%;
+	min-width: 300px;
+	max-width: 500px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px -1px 0px #8098b0;
+}.github:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #171a1a), color-stop(1, #3e4a47) );
+	background:-moz-linear-gradient( center top, #171a1a 5%, #3e4a47 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#171a1a', endColorstr='#3e4a47');
+	background-color:#171a1a;
+}.github:active {
+	position:relative;
+	top:1px;
+}
+.instagram {
+	-moz-box-shadow:inset 0px 1px 0px 0px #f7c9a4;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f7c9a4;
+	box-shadow:inset 0px 1px 0px 0px #f7c9a4;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #8234af), color-stop(1, #dd2a7a) );
+	background:-moz-linear-gradient( center top, #8234af 5%, #dd2a7a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8234af', endColorstr='#dd2a7a');
+	background-color:#8234af;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+    text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:normal;
+    height:50px;
+	line-height:50px;
+	width:100%;
+	min-width: 300px;
+	max-width: 500px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #f7c9a4;
+}.instagram:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dd2a7a), color-stop(1, #8234af) );
+	background:-moz-linear-gradient( center top, #dd2a7a 5%, #8234af 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dd2a7a', endColorstr='#8234af');
+	background-color:#dd2a7a;
+}.instagram:active {
+	position:relative;
+	top:1px;
+}
+.linkedin {
+	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #378de5 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
+	background-color:#79bbff;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+	text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:normal;
+	height:50px;
+	line-height:50px;
+    width:100%;
+	min-width: 300px;
+	max-width: 500px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #528ecc;
+}.linkedin:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #378de5 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
+	background-color:#378de5;
+}.linkedin:active {
+	position:relative;
+	top:1px;
+}
