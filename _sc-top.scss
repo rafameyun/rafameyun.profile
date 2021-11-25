@@ -6,7 +6,7 @@
     display: flex;
 
     h1{
-        background: url(/images/logo.png) no-repeat;
+        background: url(images/logo.png) no-repeat;
         width: 58px;
         height: 58px;
         font-size: 0px;
@@ -43,7 +43,7 @@
     display: inline-block;
 }
 .top p:first-child a {
-    background: url(/images/icons/linkedin-dark.svg) no-repeat;
+    background: url(images/icons/linkedin-dark.svg) no-repeat;
 }
 .top p a {
     display: block;
@@ -51,8 +51,8 @@
     width: 36px;
     height: 36px;
     font-size: 0px;
-    background: url(/images/icons/github-dark.svg) no-repeat;
+    background: url(images/icons/github-dark.svg) no-repeat;
 }
 .top p:last-child a{
-    background: url(/images/icons/instagram-dark.svg) no-repeat;
+    background: url(images/icons/instagram-dark.svg) no-repeat;
 }
