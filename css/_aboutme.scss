@@ -1,0 +1,80 @@
+/* About me page style */
+
+.mostlike  {
+    position: relative;
+    padding: 50px 0px;
+    background: #0170ed;
+    color: rgb(44, 51, 68);
+}
+.aboutme {
+    max-width: 1180px;
+    margin: 0px auto;
+    padding: 0px 20px;
+
+    h3 {
+        text-align: center;
+        font-size: 40px;
+        margin: 0px auto 60px;
+    }
+}
+
+@media (max-width: 768px) {
+    .aboutme h3 {
+        font-size: 30px;
+        max-width: 200px;
+    }
+}
+.whatlike {
+    color:rgb(44, 51, 68);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+@media (max-width: 768px) {
+    .whatlike {
+        grid-template-columns: 1fr;
+    }
+}
+.desc {
+    color:rgb(44, 51, 68);
+    margin: 0px 0px 30px;
+    padding: 0px 30px 0px 0px;
+
+    img {
+        height: 70px;
+    }
+
+    h4 {
+        font-size: 24px;
+        margin: 20px 0px 10px;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 150%;
+        margin: 0px;
+    }
+}
+@media (max-width: 768px) {
+    .desc{
+        margin: 0px auto 45px;
+        max-width: 265px;
+        padding: 0px;
+    }
+}
+@media (max-width: 768px) {
+    .desc img {
+        margin: 0px auto;
+        display: block;
+        height: 85px;
+    }
+}
+@media (max-width: 768px) {
+    .desc h4 {
+        font-size: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .desc p {
+        font-size: 16.5px;
+    }
+}

@@ -1,0 +1,58 @@
+/* Top of website */
+
+.sc-top {
+    padding: 30px;
+    color: rgb(44,51,68);
+    display: flex;
+
+    h1{
+        background: url(/images/logo.png) no-repeat;
+        width: 58px;
+        height: 58px;
+        font-size: 0px;
+        display: block;
+        margin: 0px auto;
+        border-radius: 50%;
+    }
+
+}
+@media (max-width: 768px) {
+    .sc-top{
+        padding: 20px;
+    }
+}
+@media (min-width: 768){
+    .sc-top h1 {
+        transform: translate(70px, 0px);
+    }
+}
+
+.sc-content {
+    float: right;
+    margin: -5px 0px 0px;
+
+    p {
+        margin: 0px;
+    }
+}
+@media (max-width: 425px){
+    .sc-content{display:none;}
+}
+
+.top p {
+    display: inline-block;
+}
+.top p:first-child a {
+    background: url(/images/icons/linkedin-dark.svg) no-repeat;
+}
+.top p a {
+    display: block;
+    margin: 0px 5px;
+    width: 36px;
+    height: 36px;
+    font-size: 0px;
+    background: url(/images/icons/github-dark.svg) no-repeat;
+}
+.top p:last-child a{
+    background: url(/images/icons/instagram-dark.svg) no-repeat;
+}

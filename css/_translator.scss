@@ -1,0 +1,15 @@
+/* Translate style */
+
+body > .skiptranslate {
+    display: flex;
+}
+
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+    } 
+@media print {
+  #google_translate_element {display: none;}
+}
+@media (max-width: 425px){
+    #google_translate_element {display: none;}
+}
