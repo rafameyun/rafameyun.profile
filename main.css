@@ -65,7 +65,7 @@ html, body {
 
 @font-face {
   font-family: Signika;
-  src: url(/font/Signika-VariableFont_wght.ttf);
+  src: url(font/Signika-VariableFont_wght.ttf);
 }
 
 /* 1 */
@@ -103,7 +103,7 @@ body > .skiptranslate {
 }
 
 .sc-top h1 {
-  background: url(/images/logo.png) no-repeat;
+  background: url(/..images/logo.png) no-repeat;
   width: 58px;
   height: 58px;
   font-size: 0px;
@@ -145,7 +145,7 @@ body > .skiptranslate {
 }
 
 .top p:first-child a {
-  background: url(/images/icons/linkedin-dark.svg) no-repeat;
+  background: url(images/icons/linkedin-dark.svg) no-repeat;
 }
 
 .top p a {
@@ -154,11 +154,11 @@ body > .skiptranslate {
   width: 36px;
   height: 36px;
   font-size: 0px;
-  background: url(/images/icons/github-dark.svg) no-repeat;
+  background: url(images/icons/github-dark.svg) no-repeat;
 }
 
 .top p:last-child a {
-  background: url(/images/icons/instagram-dark.svg) no-repeat;
+  background: url(images/icons/instagram-dark.svg) no-repeat;
 }
 
 /* 3 */
@@ -378,7 +378,7 @@ aside {
     width: 100%;
     height: 3px;
     margin: 20px 0px 0px;
-    background: url(/images/icons/separador-mobile.svg) center center no-repeat;
+    background: url(images/icons/separador-mobile.svg) center center no-repeat;
   }
 }
 
@@ -487,7 +487,7 @@ aside {
   display: block;
   width: 100%;
   height: 3px;
-  background: url(/images/icons/separador-azul.svg);
+  background: url(images/icons/separador-azul.svg);
 }
 
 @media (max-width: 768px) {
@@ -645,14 +645,14 @@ aside {
   width: 36px;
   height: 36px;
   font-size: 0px;
-  background: url(/images/icons/github.svg);
+  background: url(images/icons/github.svg);
 }
 
 .icons p:first-child a {
-  background: url(/images/icons/linkedin.svg) no-repeat;
+  background: url(images/icons/linkedin.svg) no-repeat;
 }
 
 .icons p:last-child a {
-  background: url(/images/icons/instagram.svg);
+  background: url(images/icons/instagram.svg);
 }
 /*# sourceMappingURL=main.css.map */
